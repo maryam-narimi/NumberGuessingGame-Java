@@ -18,5 +18,8 @@ A simple number guessing game implemented in Java.
 3. Run `NumberGuessingGame.java` (Shift + F6 in NetBeans).  
 4. Guess the number and enjoy!
 
+---
+
 ## Author
+
 **Maryam Narimi**
