@@ -25,5 +25,7 @@ Too high!
 63
 Congratulations! You guessed the number in 3 tries.```
 
-## Author
-** Maryam Narimi**
+---
+
+###  Author  
+**Maryam Narimi**
