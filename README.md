@@ -1,25 +1,30 @@
-# Number Guessing Game 
-A simple number guessing game implemented in Java.
+# Number Guessing Game
 
-## Features
-- Console-based game
-- Random number generation
-- Provides hints: "Higher!" or "Lower!"
-- Tracks number of attempts
-- Option to play again
+A simple Java console game where the user tries to guess a random number between 1 and 100.
+
+## How It Works
+- The program generates a random number between 1 and 100.
+- The user enters guesses until the correct number is found.
+- The program gives hints:
+  - "Too high" if the guess is greater than the number.
+  - "Too low" if the guess is smaller.
+- Displays how many attempts the player took.
 
 ## How to Run
-1. Clone the repository:
+1. Open the project in **NetBeans IDE**.
+2. Run `NumberGuessingGame.java` (press **Shift + F6**).
+3. Play and enjoy!
 
+## Example Output
 
-```git clone https://github.com/your-username/NumberGuessingGame.git```
+```Guess the number between 1 and 100:
+50
+Too low!
+75
+Too high!
+63
+Congratulations! You guessed the number in 3 tries.```
 
-2. Open the project in NetBeans IDE 8.2 (or any Java IDE).  
-3. Run `NumberGuessingGame.java` (Shift + F6 in NetBeans).  
-4. Guess the number and enjoy!
-
----
 
 ## Author
-
-**Maryam Narimi**
+** Maryam Narimi**
